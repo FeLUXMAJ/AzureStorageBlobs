@@ -1,0 +1,11 @@
+c:\users\keera\documents\visual studio 2017\Projects\AzureStorageBlobs\AzureStorageBlobs\bin\Debug\netcoreapp2.0\AzureStorageBlobs.deps.json
+c:\users\keera\documents\visual studio 2017\Projects\AzureStorageBlobs\AzureStorageBlobs\bin\Debug\netcoreapp2.0\AzureStorageBlobs.runtimeconfig.json
+c:\users\keera\documents\visual studio 2017\Projects\AzureStorageBlobs\AzureStorageBlobs\bin\Debug\netcoreapp2.0\AzureStorageBlobs.runtimeconfig.dev.json
+c:\users\keera\documents\visual studio 2017\Projects\AzureStorageBlobs\AzureStorageBlobs\bin\Debug\netcoreapp2.0\AzureStorageBlobs.dll
+c:\users\keera\documents\visual studio 2017\Projects\AzureStorageBlobs\AzureStorageBlobs\obj\Debug\netcoreapp2.0\AzureStorageBlobs.csprojResolveAssemblyReference.cache
+c:\users\keera\documents\visual studio 2017\Projects\AzureStorageBlobs\AzureStorageBlobs\obj\Debug\netcoreapp2.0\AzureStorageBlobs.csproj.CoreCompileInputs.cache
+c:\users\keera\documents\visual studio 2017\Projects\AzureStorageBlobs\AzureStorageBlobs\obj\Debug\netcoreapp2.0\AzureStorageBlobs.AssemblyInfoInputs.cache
+c:\users\keera\documents\visual studio 2017\Projects\AzureStorageBlobs\AzureStorageBlobs\obj\Debug\netcoreapp2.0\AzureStorageBlobs.AssemblyInfo.cs
+c:\users\keera\documents\visual studio 2017\Projects\AzureStorageBlobs\AzureStorageBlobs\bin\Debug\netcoreapp2.0\AzureStorageBlobs.pdb
+c:\users\keera\documents\visual studio 2017\Projects\AzureStorageBlobs\AzureStorageBlobs\obj\Debug\netcoreapp2.0\AzureStorageBlobs.dll
+c:\users\keera\documents\visual studio 2017\Projects\AzureStorageBlobs\AzureStorageBlobs\obj\Debug\netcoreapp2.0\AzureStorageBlobs.pdb
